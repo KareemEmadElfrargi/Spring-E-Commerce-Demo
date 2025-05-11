@@ -30,10 +30,9 @@ This is a basic **Spring Boot REST API** for an E-Commerce application. It allow
 ---
 
 
----
 
 
-   ```
+
 
 
 ##  API Endpoints
@@ -71,10 +70,10 @@ Example `form-data`:
 
 ##  To Do
 
-- ✅ Add category support
-- ⏳ Add user authentication
-- ⏳ Shopping cart feature
-- ⏳ Order management
+-  Add category support
+-  Add user authentication
+-  Shopping cart feature
+-  Order management
 
 ---
 
